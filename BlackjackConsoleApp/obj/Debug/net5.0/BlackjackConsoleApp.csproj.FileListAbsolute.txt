@@ -1,0 +1,16 @@
+C:\Users\sheerwin.gan\source\repos\BlackjackConsoleApp\BlackjackConsoleApp\bin\Debug\net5.0\BlackjackConsoleApp.exe
+C:\Users\sheerwin.gan\source\repos\BlackjackConsoleApp\BlackjackConsoleApp\bin\Debug\net5.0\BlackjackConsoleApp.deps.json
+C:\Users\sheerwin.gan\source\repos\BlackjackConsoleApp\BlackjackConsoleApp\bin\Debug\net5.0\BlackjackConsoleApp.runtimeconfig.json
+C:\Users\sheerwin.gan\source\repos\BlackjackConsoleApp\BlackjackConsoleApp\bin\Debug\net5.0\BlackjackConsoleApp.runtimeconfig.dev.json
+C:\Users\sheerwin.gan\source\repos\BlackjackConsoleApp\BlackjackConsoleApp\bin\Debug\net5.0\BlackjackConsoleApp.dll
+C:\Users\sheerwin.gan\source\repos\BlackjackConsoleApp\BlackjackConsoleApp\bin\Debug\net5.0\ref\BlackjackConsoleApp.dll
+C:\Users\sheerwin.gan\source\repos\BlackjackConsoleApp\BlackjackConsoleApp\bin\Debug\net5.0\BlackjackConsoleApp.pdb
+C:\Users\sheerwin.gan\source\repos\BlackjackConsoleApp\BlackjackConsoleApp\obj\Debug\net5.0\BlackjackConsoleApp.csproj.AssemblyReference.cache
+C:\Users\sheerwin.gan\source\repos\BlackjackConsoleApp\BlackjackConsoleApp\obj\Debug\net5.0\BlackjackConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sheerwin.gan\source\repos\BlackjackConsoleApp\BlackjackConsoleApp\obj\Debug\net5.0\BlackjackConsoleApp.AssemblyInfoInputs.cache
+C:\Users\sheerwin.gan\source\repos\BlackjackConsoleApp\BlackjackConsoleApp\obj\Debug\net5.0\BlackjackConsoleApp.AssemblyInfo.cs
+C:\Users\sheerwin.gan\source\repos\BlackjackConsoleApp\BlackjackConsoleApp\obj\Debug\net5.0\BlackjackConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\sheerwin.gan\source\repos\BlackjackConsoleApp\BlackjackConsoleApp\obj\Debug\net5.0\BlackjackConsoleApp.dll
+C:\Users\sheerwin.gan\source\repos\BlackjackConsoleApp\BlackjackConsoleApp\obj\Debug\net5.0\ref\BlackjackConsoleApp.dll
+C:\Users\sheerwin.gan\source\repos\BlackjackConsoleApp\BlackjackConsoleApp\obj\Debug\net5.0\BlackjackConsoleApp.pdb
+C:\Users\sheerwin.gan\source\repos\BlackjackConsoleApp\BlackjackConsoleApp\obj\Debug\net5.0\BlackjackConsoleApp.genruntimeconfig.cache
